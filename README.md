@@ -41,4 +41,6 @@ Display each key-value pair from the metadata JSON object somewhere on the page.
 
 Update all the plots when a new sample is selected. 
 
-Deploy my app to a free static page hosting service, my GitHub Page. 
+Deploy my app to a free static page hosting service, my GitHub Page.
+# Website
+https://afkami.github.io/
