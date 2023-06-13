@@ -1,6 +1,6 @@
 
 # belly-button-challenge #
-![bacteria](https://github.com/AFKAMI/belly-button-challenge/assets/126113162/ea72526b-d212-47d1-ba5a-78c068e31d21)
+![bacteria](https://github.com/AFKAMI/AFKAMI.github.io/assets/126113162/2c9db9ac-a852-4dc9-9bb0-e791442da0d5)
 
 # Instructions
 Complete the following steps:
@@ -15,7 +15,8 @@ Use otu_ids as the labels for the bar chart.
 
 Use otu_labels as the hovertext for the chart.
 
-![hw01](https://github.com/AFKAMI/belly-button-challenge/assets/126113162/a8c6077c-82ec-4d52-a2cb-fb163f854bcf)
+![hw01](https://github.com/AFKAMI/AFKAMI.github.io/assets/126113162/2d26369d-c57e-4fe1-9c0e-af8d0c77eab8)
+
 
 2- Create a bubble chart that displays each sample.
 
@@ -29,14 +30,14 @@ Use otu_ids for the marker colors.
 
 Use otu_labels for the text values.
 
-<img width="1416" alt="bubble_chart" src="https://github.com/AFKAMI/belly-button-challenge/assets/126113162/ab931657-ea90-4121-ab7f-686e0412d2df">
+<img width="1416" alt="bubble_chart" src="https://github.com/AFKAMI/AFKAMI.github.io/assets/126113162/d68559a9-660f-4c01-9c8f-744de7d8f87c">
 
 
 Display the sample metadata, i.e., an individual's demographic information.
 
 Display each key-value pair from the metadata JSON object somewhere on the page.
 
-![hw03](https://github.com/AFKAMI/belly-button-challenge/assets/126113162/5c503991-c3c0-4616-bec4-1a4e675342a0)
+![hw03](https://github.com/AFKAMI/AFKAMI.github.io/assets/126113162/e5406d26-0760-41c5-8780-46a267e3cc68)
 
 Update all the plots when a new sample is selected. 
 
